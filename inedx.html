@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- <link rel="favicon" type="image/png" href="/images/favicon-32x32.png> -->
   <link href="normalize.css" rel="stylesheet">
   <link href="styles.css" rel="stylesheet">
   <title>Responsive Landing Page</title>
@@ -28,9 +29,9 @@
     <div class="light-header grid">
       <div class="content">
         <form class="email-form" action="https://www.howtonetwork.com/register/access-all-areas/?coupon=7days" method="POST">
-          <!-- <form class="email-form" action="" method="POST"> -->
-          <!-- <input type="email" name="email" placeholder="Enter Your Email"> -->
-          <button type="submit">Register</button>
+          <form class="email-form" action="#" method="POST">
+          <input type="email" name="email" placeholder="Enter Your Email">
+          <button type="submit">Subscribe</button>
         </form>
       </div>
     </div>
@@ -39,13 +40,18 @@
   <main> 
 <!-- video section -->
     <section class="grid grid-video">
-      <video poster="thumbnail.jpg" controls>
-        <source src="https://www.youtube.com/embed/Wp2RCReHtsI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" type="video/mp4"> 
+      <video poster="/images/thumbnails.jpg" controls>
+        <a src="https://www.youtube.com/embed/Wp2RCReHtsI"> 
+        <!-- <source src="https://youtu.be/Wp2RCReHtsI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" type="video/mp4">  -->
       </video>
       <div class="benefits-section">
         <div class="benefit">
           <img src="images/email-icon.svg" alt="email icon">
-          Join The Site
+          Join Site
+          <br />
+        <form class="email-form" action="https://www.howtonetwork.com/register/access-all-areas/?coupon=7days" method="POST">
+         
+        <button type="submit">Register</button>
         </div>
       </div>
       <div class="benefit">
@@ -58,11 +64,14 @@
       </div>
     </div>
     <!-- main section -->
+    
   </section>
+  
   <section class="grid grid-benefit-detail">
+    
     <div class="benefit-detail">
       <div class="benefit-detail-title">
-        What you will get...
+        What you will get.
       </div>
       <div class="benefit-detail-text">
         Unlimited IT certification courses
@@ -71,7 +80,7 @@
     </div>
     <div class="benefit-detail">
       <div class="benefit-detail-title">
-        Access All Areas
+        Access All Areas.
       </div>
       <div class="benefit-detail-text">
         Video lessons
@@ -84,7 +93,7 @@
     </div>
     <div class="benefit-detail">
       <div class="benefit-detail-title">
-        Join Now For Just $1
+        Join Now For Just $1.
       </div>
       <div class="benefit-detail-text">
         Exam, job, and consulting training courses – value $297
