@@ -1,13 +1,11 @@
 # Responsive-Landing-Page-With-Email-Sign-Up.
 
-# Alway Open Source:
-Fork:
+# Always Open Source:
+
+Fork:<br />
 Clone:
 
 # Show Support and leave a follow and a star🎇
-
-
-
 
 
 
