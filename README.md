@@ -1,11 +1,15 @@
-# Responsive-Landing-Page-With-Email-Sign-Up.
+<img src="https://media.giphy.com/media/UadxqjtFahk61kSkio/giphy.gif?cid=790b7611845e27b04c694e804a8b90b45c035067a394d122&rid=giphy.gif&ct=g" style="border-radius:10%" height="280px" width="1000" target="_blank">
+<hr />
+<br />
 
+
+#Responsive-Landing-Page-With-Email-Sign-Up
 # Alway Open Source:
-Fork:
-Clone:
+#Fork:
+#Clone:
 
-# Show Support and leave a follow and a star🎇
-
+# Show some Support and leave a (Git)follow and a star🎇<br />
+[![GitHub:Follow](https://img.shields.io/github/followers/LawrenceBaatjies?label=follow&style=social)](https://github.com/LawrenceBaatjies)
 
 
 
