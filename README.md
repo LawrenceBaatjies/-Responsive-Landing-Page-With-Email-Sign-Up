@@ -4,7 +4,7 @@
 
 
 # Responsive-Landing-Page-With-Email-Sign-Up
-# Alway Open Source:
+# AlwayS Open Source:
 # Fork:
 # Clone:
 
