@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Responsive-Landing-Page-With-Email-Sign-Up.
 
 # Always Open Source:
@@ -30,7 +30,7 @@ Portfolio Website Still-Pending...<br />
 ![Youtube](https://img.shields.io/badge/Youtube-E4405F?style=social-the-badge&logo=youtube&logoColor=white)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=social-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lawrence-baatjies-a13904192)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=social-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15492726/lawrence-47)
->>>>>>> 85324a2facbebb25ac2a437b7adb8ac2ad1d9365
+
 
 
 
