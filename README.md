@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Responsive-Landing-Page-With-Email-Sign-Up.
 
 # Always Open Source:
@@ -7,6 +8,29 @@ Clone:
 
 # Show Support and leave a follow and a star🎇
 
+=======
+<img src="https://media.giphy.com/media/UadxqjtFahk61kSkio/giphy.gif?cid=790b7611845e27b04c694e804a8b90b45c035067a394d122&rid=giphy.gif&ct=g" style="border-radius:10%" height="280px" width="1000" target="_blank">
+<hr />
+<br />
+
+
+# Responsive-Landing-Page-With-Email-Sign-Up
+# AlwayS Open Source:
+# Fork:
+# Clone:
+
+# Show some Support and leave a (Git)follow and a star🎇<br />
+[![GitHub:Follow](https://img.shields.io/github/followers/LawrenceBaatjies?label=follow&style=social)](https://github.com/LawrenceBaatjies)
+
+📞Connect with me on:<br />
+Portfolio Website Still-Pending...<br />
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=social-the-badge&logo=slack&logoColor=white)](https://slack.com/app_redirect?channel=${@Lawrence=T2H71EFLK)
+![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=social-the-badge&logo=gmail&logoColor=white=mailto:lawrencebaatjies47@gmail.com)
+![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=social-the-badge&logo=twitter&logoColor=white) 
+![Youtube](https://img.shields.io/badge/Youtube-E4405F?style=social-the-badge&logo=youtube&logoColor=white)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=social-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lawrence-baatjies-a13904192)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=social-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15492726/lawrence-47)
+>>>>>>> 85324a2facbebb25ac2a437b7adb8ac2ad1d9365
 
 
 
