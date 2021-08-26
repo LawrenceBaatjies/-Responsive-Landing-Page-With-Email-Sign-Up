@@ -31,13 +31,13 @@ body {
 .grid {
   display: grid;
   grid-template-columns: repeat(6, 1fr);
-  gap: 20px;
-  padding: 0 40px;
+  gap: 30px;
+  padding: -0 40px;
   grid-template-areas: ". content content content content .";
 }
 
 .grid-video {
-  margin-top: 50px;
+  margin-top: 60px;
   align-items: center;
   grid-template-areas: "video video video benefits benefits benefits";
 }
